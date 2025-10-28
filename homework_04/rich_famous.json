@@ -1,0 +1,127 @@
+{
+  
+  "1": {
+    
+    "entity_type": "person",
+    "web": "Caesar@spqr.com",
+    "name": "Caesar",
+    "dob": "long ago",
+    "occupation": {
+      "name": "Roman General",
+      "income": "Heaps of Cestertii"
+    },
+    
+    "known_for": [
+      "conquered Gaul",
+      "Won a Civil War",
+      "Wrote a book about himself"
+    ]
+  },
+  
+  "2": {
+    
+    "entity_type": "food",
+    "web": "https:///en.wikipedia.org//wiki//Caesar_salad",
+    "name": "Caesar",
+    "dob": "1924",
+    "occupation": {
+      "name": "Salad Chef",
+      "income": "Fruits and Vegetables"
+    },
+    
+    "known_for": [
+      "Invented Caesar Salad",
+      "Popularized croutons",
+      "Famous dressing recipe"
+    ]
+  },
+  
+  "3": {
+    
+    "entity_type": "person",
+    "web": "Augustus@spqr.com",
+    "name": "Octavian",
+    "dob": "Between Caesar and Nero",
+    "occupation": {
+      "name": "Roman Princeps",
+      "income": "Heaps of Cestertii"
+    },
+    
+    "known_for": [
+      "Founded the Empire",
+      "Won a Civil War",
+      "Rebuilt Rome"
+    ]
+  },
+  
+  "4": {
+    
+    "entity_type": "person",
+    "web": "Nero@spqr.com",
+    "name": "Nero",
+    "dob": "also long ago",
+    "occupation": {
+      "name": "Roman Princeps",
+      "income": "Heaps of Cestertii"
+    },
+    
+    "known_for": [
+      "Burned Rome",
+      "Won Olympics"
+    ]
+  },
+  
+  "5": {
+    
+    "entity_type": "person",
+    "web": "@elonmusk",
+    "name": "Elon",
+    "dob": "recently",
+    "occupation": {
+      "name": "Microblogger",
+      "income": "Jigabytes of Dogecoins"
+    },
+    
+    "known_for": [
+      "Founded Tesla",
+      "Founded SpaceX",
+      "Talks too much"
+    ]
+  },
+  
+  "6": {
+    
+     "entity_type": "character",
+    "web": "drake@goldenhind.com",
+    "name": "Francis",
+    "dob": "not so long ago",
+    "occupation": {
+      "name": "Privateer",
+      "income": "Ships of Silver"
+    },
+    
+    "known_for": [
+      "Looted Spanish colonies",
+      "Defeated the Spanish Armada",
+      "Clearly didn't like Spain",
+      "Second to circumnavigate the Earth"
+    ]
+  },
+  
+  "7": {
+    
+    "entity_type": "character",
+    "web": "https:///www.wbkidsgo.com//looney-tunes",
+    "name": "Bugs",
+    "occupation": {
+      "name": "Bunny",
+      "income": "Bunches of Carrots"
+    },
+    
+    "known_for": [
+      "Star at Hollywood",
+      "Won an Oscar"
+    ]
+  }
+  
+}
