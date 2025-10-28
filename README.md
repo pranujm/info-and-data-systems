@@ -2,4 +2,4 @@
 
 All homework assignments for ISYE 2530 - Information & Data Systems.
 
-Assignments completed in SQL using MySQL and R for data analysis.
+Assignments completed in RStudio using R for data analysis.
